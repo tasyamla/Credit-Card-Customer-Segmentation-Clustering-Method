@@ -1,1 +1,1 @@
-# Credit-Card-Customer-Segmentation-Clustering-Method
+The project uses data from BigQuery that contains customer segmentation using bank credit card data.
